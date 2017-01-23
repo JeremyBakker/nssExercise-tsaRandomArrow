@@ -1,0 +1,9 @@
+div#target {
+	height: 100%;
+	width: 100%;
+}
+
+.left {
+	background-size: 100%;
+	background-image: url("images/left.png");
+}
